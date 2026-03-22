@@ -1,3 +1,4 @@
+![logo](https://github.com/itxmerajkhan1/itxmerajkhan1/blob/main/Programmer%20Modern%20Blue%20Linkedin%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Muhammed Meraj khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="GIF" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
