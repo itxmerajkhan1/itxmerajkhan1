@@ -1,18 +1,18 @@
 ![logo](https://github.com/itxmerajkhan1/itxmerajkhan1/blob/main/Programmer%20Modern%20Blue%20Linkedin%20Background%20Photo.png)
+
 <h1 align="center">Hi 👋, I'm Muhammed Meraj khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web and Application Developer from Pakistan</h3>
 <img align="right" alt="GIF" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxmerajkhan1t&label=Profile%20views&color=0e75b6&style=flat" alt="itxmerajkhan1t" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 I’m currently learning **Next.js, TypeScript, Tailwind CSS**
 
-- 🌱 I’m currently learning **nextjs**
-
-- 💬 Ask me about **React ,JS ,anything**
+- 💬 Ask me about **React, JavaScript, Frontend Development, AI Tools**
 
 - 📫 How to reach me **merajkhan3109@gmail.com**
 
-- ⚡ Fun fact **I am fun with my Skills**
+- ⚡ Fun fact **I turn coffee ☕ into clean code 💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
